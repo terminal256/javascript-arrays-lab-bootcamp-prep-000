@@ -8,7 +8,7 @@ function destructivelyAppendKitten(name){}
 function destructivelyPrependKitten(name){}
 function destructivelyRemoveLastKitten(){}
 function destructivelyRemoveFirstKitten(){}
-function (){}
+function appendKitten(name){}
 function (){}
 function (){}
 function (){}
