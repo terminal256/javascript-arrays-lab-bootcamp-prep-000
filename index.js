@@ -9,6 +9,6 @@ function destructivelyPrependKitten(name){}
 function destructivelyRemoveLastKitten(){}
 function destructivelyRemoveFirstKitten(){}
 function appendKitten(name){}
-function (){}
+function prependKitten(name){}
 function (){}
 function (){}
