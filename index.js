@@ -1,4 +1,4 @@
-var kittens = [] //define your array here
+var kittens =  //define your array here
 
 
 
